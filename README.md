@@ -1,4 +1,4 @@
-# SENTINELA — Sprint 1
+# SENTINELA — Sprint
 
 Protótipo em console que simula o monitoramento de uma instalação nuclear fictícia: sensores e um drone registram leituras, e a central emite alertas por severidade (BAIXA, MEDIA, ALTA, CRITICA).
 
