@@ -1,3 +1,13 @@
+#Integrantes e turma
+
+- Leonardo Kenji Kubo Barboza - RM 567518
+- Carlos Raul Peixoto Marques - RM 567798
+- Luís Roberto Lanzoni Kihara Júnior - RM 567406
+- Diego Leite Asprino - RM 561662
+- Lucas Gabriel Alvarenga e Meireles - RM 567305
+- Turma - CCPR
+
+
 # SENTINELA — Sprint
 
 Protótipo em console que simula o monitoramento de uma instalação nuclear fictícia: sensores e um drone registram leituras, e a central emite alertas por severidade (BAIXA, MEDIA, ALTA, CRITICA).
