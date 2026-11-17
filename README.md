@@ -1,4 +1,4 @@
-#Integrantes e turma
+ # Integrantes e turma
 
 - Leonardo Kenji Kubo Barboza - RM 567518
 - Carlos Raul Peixoto Marques - RM 567798
